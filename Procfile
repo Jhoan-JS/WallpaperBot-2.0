@@ -1,2 +1,2 @@
-worker npm start:prod
+worker npm start
 worker node src/server.js
