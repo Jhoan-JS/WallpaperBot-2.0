@@ -1,0 +1,19 @@
+{
+  "name": "WallpaperBot-Telegram-2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon src/server",
+    "start:prod": "NODE_ENV=production node src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^12.0.3",
+    "snoowrap": "^1.23.0",
+    "telegraf": "^4.6.0"
+  }
+}
