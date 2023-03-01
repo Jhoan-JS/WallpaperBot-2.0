@@ -1,7 +1,7 @@
 
 # Wallpaper Bot
 
-A brief description of what this project does and who it's for
+A telegram bot to download wallpapers from differents sources
 
 
 ## Authors
